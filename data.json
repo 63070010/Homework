@@ -1,1 +1,1 @@
-string(name: 'NAME', value: 'Alice'), string(name: 'age', value: '21')
+{"parameter":("name": 'NAME', "value": 'Alice'), ("name": 'age', "value": '21')}
